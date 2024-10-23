@@ -1,0 +1,56 @@
+.custom-btn {
+    color: white;
+    transition: all 0.3s ease;
+  }
+
+  .custom-btn:hover {
+    color: white;
+    background-color: #47B2E4;
+    border-radius: 50px;
+  }
+
+  .tooltip-inner {
+    background-color: white;
+    color: #37517E;
+  }
+
+  .list-unstyled a {
+    text-decoration: none;
+    color: #777777;
+  }
+
+  h5 {
+    color: #37517E
+  }
+
+  li a {
+    margin-bottom: 12px;
+    display: block;
+  }
+
+  .social-icon {
+    width: 35px;
+    height: 35px;
+    background-color: #37517E;
+    border-radius: 50%;
+    text-align: center;
+    transition: background-color 0.3s ease;
+  }
+
+  .social-icon:hover {
+    background-color: #6388c9;
+  }
+
+  .social-icon i {
+    line-height: 40px;
+  }
+
+  .footer-link {
+    text-decoration: none;
+    color: #47B2E4;
+  }
+
+  .footer-link:hover {
+    color: white;
+  }
+  
